@@ -1,4 +1,4 @@
-# 🛒 E-Commerce User Journey Funnel Analysis
+# 🛒 User Journey & Conversion Drop-off Analysis in E-Commerce 
 
 ## 📌 Project Overview
 
