@@ -19,13 +19,13 @@ In e-commerce, cart abandonment directly translates to lost revenue. This projec
 ## 📊 Dashboard Preview
 
 ### Page 1 — Funnel Overview
-
+![Funnel Overview](page1_user_funnel_overview.png)
 
 ### Page 2 — Segmentation Analysis
-
+![Segmentation Analysis](page2_segmentation_analysis.png)
 
 ### Page 3 — Behaviour & Recommendations
-
+![Behaviour and Recommendations](page3_behaviour_recommendations.png)
 
 ---
 
