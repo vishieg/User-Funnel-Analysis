@@ -123,10 +123,10 @@ In e-commerce, cart abandonment directly translates to lost revenue. This projec
 ---
 
 ## 🗂️ Project Structure
+```
 User-Funnel-Analysis/
-
 ├── README.md
-├── user_funnel_analysis.zip     # All project files
+├── user_funnel_analysis.zip
 │   ├── data/
 │   │   └── Ecommerce_clean.csv
 │   ├── sql_file/
@@ -136,7 +136,7 @@ User-Funnel-Analysis/
 │       ├── page1_user_funnel_overview.png
 │       ├── page2_segmentation_analysis.png
 │       └── page3_behaviour_recommendations.png
----
+```
 
 ## ⚙️ How to Run
 
